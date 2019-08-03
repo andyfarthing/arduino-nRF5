@@ -58,9 +58,9 @@ extern "C"
 
 // Buttons
 #define PIN_BUTTON1         (11) // P1.11
-#define PIN_BUTTON1         (12) // P1.12
-#define PIN_BUTTON1         (24) // P0.24
-#define PIN_BUTTON1         (25) // P0.25
+#define PIN_BUTTON2         (12) // P1.12
+#define PIN_BUTTON3         (24) // P0.24
+#define PIN_BUTTON4         (25) // P0.25
 
 /*
  * Analog pins
